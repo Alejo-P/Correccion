@@ -4,6 +4,7 @@
    Getters: Son metodos de un objeto definido a partir de una clase, los cuales se encargan de devolver o retornar el valor asignado a un atributo del objeto.
    
    **· Ejemplo en código en:** *Setters_y_Getters.java*
+
 **2) Indique la secuencia de comandos en Git que permitan clonar un  repositorio, traer los cambios, guardadr los cambios realizador y actualizar los cambios.**
    
    git clone URL -> Permite clonar un repositorio remoto
@@ -13,6 +14,7 @@
    git commit -m "mensaje" -> Permite guardar los cambios realizados e incluir un mensaje detallando los cambios
    
    put push -> Permite actualizar (empujar) los cambios realizados al reposiorio remoto
+
 **3) ¿Para que se utiliza el bloque "try-catch" en java?**
    
    El bloque "try-catch" se utiliza para el manejo de excepciones, en el bloque "try" se encuentra el codigo que puede generar generar una excepcion, en el bloque "catch"
@@ -20,6 +22,7 @@
    excepciones detengan bruscamente la ejecucion del programa.
 
    **· Ejemplo en código en:** *Bloque_tryCatch.java*
+
 **4) Defina Programación Orientada a Objetos y el concepto de constructores.**
    
    La POO es un paradigma de la programacion en la que se usan clases, objetos, herencia y polimorfismo para la organizacion y estructura del código.
