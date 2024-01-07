@@ -11,3 +11,5 @@
    se captura la excepcion y se la puede manejar de mejor manera, entonces, el bloque "try-catch" captura posibles excepciones que se generen, los maneja y evita que esas
    excepciones detengan bruscamente la ejecucion del programa.
 4) Defina Programación Orientada a Objetos y el concepto de constructores.
+   La POO es un paradigma de la programacion en la que se usan clases, objetos, herencia y polimorfismo para la organizacion y estructura del código.
+   Un constructor es un metodo de una clase que se encarga de inicializar una instancia (objeto) creado apartir de esa clase.
